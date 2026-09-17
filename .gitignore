@@ -7,3 +7,17 @@ cpu.pprof
 mem.pprof
 teamide
 teamide.exe
+
+# 打包构建产物
+electron-template/
+teamide-html/
+darwin-amd64/
+darwin-arm64/
+windows-amd64/
+linux-amd64/
+release/
+teamide-node-darwin-*/
+teamide-server-darwin-*/
+*.zip
+*.dmg
+*.blockmap
