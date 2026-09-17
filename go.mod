@@ -4,7 +4,9 @@ go 1.18
 
 //replace github.com/team-ide/go-dialect => ../go-dialect
 //
-//replace github.com/team-ide/go-tool => ../go-tool
+// 上游 team-ide/go-tool 尚未合入 Elasticsearch 8.x 兼容修复（GetMapping 返回 400），
+// 这里指向已修复的 fork，待上游合并后可改回版本号依赖。
+replace github.com/team-ide/go-tool => github.com/bambooHouse/go-tool v1.2.51
 
 replace github.com/dop251/goja => github.com/team-ide/goja v1.0.4
 

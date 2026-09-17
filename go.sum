@@ -13,6 +13,8 @@ github.com/andybalholm/cascadia v1.3.1 h1:nhxRkql1kdYCc8Snf7D5/D3spOX+dBgjA6u8x0
 github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEqc0Sk8XGwHqvA=
 github.com/apache/thrift v0.17.0 h1:cMd2aj52n+8VoAtvSvLn4kDC3aZ6IAkBuqWQ2IDu7wo=
 github.com/apache/thrift v0.17.0/go.mod h1:OLxhMRJxomX+1I/KUw03qoV3mMz16BwaKI+d4fPBx7Q=
+github.com/bambooHouse/go-tool v1.2.51 h1:AmmOvvw4oaCssh+sBwg8hzYvM/bcqPYNXB2X1tSkdbI=
+github.com/bambooHouse/go-tool v1.2.51/go.mod h1:e/pgLooTSmWV90K3ZiWRCBQZ4664/6j1lF0ZXgdZgyQ=
 github.com/bytedance/sonic v1.11.6 h1:oUp34TzMlL+OY1OUWxHqsdkgC/Zfc85zGqw9siXjrc0=
 github.com/bytedance/sonic v1.11.6/go.mod h1:LysEHSvpvDySVdC2f87zGWf6CIKJcAvqab1ZaiQtds4=
 github.com/bytedance/sonic/loader v0.1.1 h1:c+e5Pt1k/cy5wMveRDyk2X4B9hF4g7an8N3zCYjJFNM=
@@ -245,8 +247,6 @@ github.com/team-ide/go-driver v1.3.6 h1:+U8DSI1VQCZ3E4IHlwScOdd2G7/W+aj+eO0P2Ep0
 github.com/team-ide/go-driver v1.3.6/go.mod h1:UhcuTAQRnvBUZXJeOA06eGJDeTqScJyfhyjpyzh3lxg=
 github.com/team-ide/go-interpreter v0.1.2 h1:m2C973+Wmp0GJ8khjZJfTjDCs9uRKCnMjm7is6+UkUo=
 github.com/team-ide/go-interpreter v0.1.2/go.mod h1:te6P2p8hjs7dB90D8SNsiOPPMwte/KFceES5ddmasjE=
-github.com/team-ide/go-tool v1.2.50 h1:pbzuQVBrsa3OU7iuhzjmDwmc7gpY3tVD6uA1nw6erxo=
-github.com/team-ide/go-tool v1.2.50/go.mod h1:e/pgLooTSmWV90K3ZiWRCBQZ4664/6j1lF0ZXgdZgyQ=
 github.com/team-ide/goja v1.0.4 h1:jmPVRk1rAtkvdncVL9rjlyCrYQBou6HgwDRNWnLnqP4=
 github.com/team-ide/goja v1.0.4/go.mod h1:WUV1qbPVN754l6kT35lPkoU0Ck6zlcE7UWl9F44ui/Q=
 github.com/team-ide/zap v1.27.0 h1:2DLUFPDfsxujtfSjEh8MEKSyaHakx3jYRct9fF7B7pk=
